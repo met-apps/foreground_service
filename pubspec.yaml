@@ -8,7 +8,7 @@ version: 2.0.1+1
 homepage: https://github.com/michael-cheung-thebus/foreground_service
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
